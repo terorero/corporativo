@@ -3,3 +3,9 @@
 _Probando_
 
 *Testeando*
+
+=== TeroRERO GNU
+
+.Mis reglas.
+
+_Cada día mejor_
